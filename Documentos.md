@@ -2,6 +2,9 @@
 
 Al realizar la busqueda para la documentación bibliográfica del proyecto se encontraron múltiples fuentes de información para el proceso de atención para Diabetes en el IMSS. 
 
+![image](https://github.com/epijorgeperez/CIMSS-Diabetes/assets/69016243/06745d24-06da-49e4-b640-46e339be9e4c)
+
+
 Se pueden clasificar en documentos normativos, guías de atención y lineamiento internos:
 
 **1) Normatividad:** 
