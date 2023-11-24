@@ -2,7 +2,8 @@
 
 Al realizar la busqueda para la documentación bibliográfica del proyecto se encontraron múltiples fuentes de información para el proceso de atención para Diabetes en el IMSS. 
 
-![image](https://github.com/epijorgeperez/CIMSS-Diabetes/assets/69016243/06745d24-06da-49e4-b640-46e339be9e4c)
+![image](https://github.com/epijorgeperez/CIIMSS-Diabetes/assets/69016243/bdc779fc-7c2f-41f4-a7d5-6c51eadee2e9)
+
 
 
 Se pueden clasificar en documentos normativos, guías de atención y lineamiento internos:
@@ -40,11 +41,4 @@ Procedimiento trabajadores imss →
 http://reposipot.imss.gob.mx/normatividad/DNMR/Procedimiento/2C22-003-001.pdf
 
 Flujogramas Detecciones →
-
-![image](https://github.com/epijorgeperez/CIMSS-Diabetes/assets/69016243/64f6867d-28e8-4799-a12f-a9f504282001)
-
-![image](https://github.com/epijorgeperez/CIMSS-Diabetes/assets/69016243/70afe2ae-38d1-4f28-8acb-866e2dd07860)
-
-![image](https://github.com/epijorgeperez/CIMSS-Diabetes/assets/69016243/6836a055-3748-484c-a023-10388554ebb2)
-
 
